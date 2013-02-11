@@ -2,9 +2,9 @@
 
 The ECOS approach, composed of four interdependent steps, start at the first stage before making a decision, goes on during the installation or migration of a part of the information system and keeps going after the change-over, in operational conditions.
 
-![General approach of ECOS](Images/processus-en.png)
-
 ##  Continuous application
+
+![Continuous application of ECOS](Images/timeline_en.png)
 
 The ECOS method can be used before, during and after the installation of a free and open source solution.
 
@@ -21,6 +21,8 @@ The ECOS method can be used during the installation of a free and open source so
 The ECOS method can be used after the installation of a free and open source solution. It allows to validate hypothesis, to provide a balance sheet of the project and to communicate the results.
 
 ##  Interdependent steps
+
+![General approach of ECOS](Images/processus_en.png)
 
 The general approach of ECOS is composed of several interdependent steps that may be followed with different granularities in order to be more or less detailed:
 

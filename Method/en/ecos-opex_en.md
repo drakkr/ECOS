@@ -11,13 +11,13 @@ The online travel company Orbitz has moved major portions of its infrastructure 
 __Type of criterion__
 
 The hardware cost can be measured in terms of money if financial figures are provided by the IT teams.
-Should the opposite occur, a score from -1 to 1 may be assigned to this criterion :
+Should the opposite occur, a score from -1 to 1 may be assigned to this criterion:
 
-* 1 : free and open source alternatives require more hardware ;
+* 1: free and open source alternatives require more hardware;
 
-* 0 : free and open source alternatives hardware requirements are virtually identical ;
+* 0: free and open source alternatives hardware requirements are virtually identical;
 
-* -1 : free and open source alternatives require less hardware.
+* -1: free and open source alternatives require less hardware.
 
 #####  Security
 
@@ -25,20 +25,20 @@ Security is a key aspect of any information system. It can be measured in terms 
 
 __Example__
 
-According to French National Information Security Agency (ANSSI) :
+According to French National Information Security Agency (ANSSI):
 "The use of proprietary technologies, stewarded by Extra-European interest, is a major disadvantage for the national sovereignty and security. As most other European countries, France has important technological vulnerabilities in that matter and the sole possible parry is the use of free software."
 
 __Type of criterion__
 
 The security cost is difficult to measure. IT security vendors report figures without disclosing the methodology nor the data.
 
-Unless the IT teams are able to provide financial data regarding IT security, this criterion is assigned a score from -1 to 1 :
+Unless the IT teams are able to provide financial data regarding IT security, this criterion is assigned a score from -1 to 1:
 
-* 1 : free and open source alternatives are less secure ;
+* 1: free and open source alternatives are less secure;
 
-* 0 : free and open source alternatives security is virtually identical ;
+* 0: free and open source alternatives security is virtually identical;
 
-* -1 : free and open source alternatives are more secure ;
+* -1: free and open source alternatives are more secure;
 
 #####  Lock-in avoidance and interoperability
 Lock-in avoidance is possible thanks to the use of interoperable solutions.
@@ -52,13 +52,13 @@ Choosing an Operating System might impose processor architecture restrictions. F
 __Type of criterion__
 
 The cost of vendor lock-in or interoperability is difficult to measure.
-Unless the IT teams are able to provide financial data regarding vendor lock-in, this criterion is assigned a score from -1 to 1 :
+Unless the IT teams are able to provide financial data regarding vendor lock-in, this criterion is assigned a score from -1 to 1:
 
-* 1 : free and open source alternatives increase vendor lock-in ;
+* 1: free and open source alternatives increase vendor lock-in;
 
-* 0 : free and open source alternatives interoperability is virtually identical ;
+* 0: free and open source alternatives interoperability is virtually identical;
 
-* -1 : free and open source alternatives decrease vendor lock-in.
+* -1: free and open source alternatives decrease vendor lock-in.
 
 #####  Productivity
 
@@ -71,13 +71,13 @@ PDF conversion is a native feature in OpenOffice and LibreOffice while it is not
 __Type of criterion__
 
 Productivity can be measured in terms of money if financial figures are provided by the IT teams.
-Should the opposite occur, a score from -1 to 1 may be assigned to this criterion :
+Should the opposite occur, a score from -1 to 1 may be assigned to this criterion:
 
-* 1 : free and open source alternatives decrease productivity ;
+* 1: free and open source alternatives decrease productivity;
 
-* 0 : free and open source alternatives maintain productivity ;
+* 0: free and open source alternatives maintain productivity;
 
-* -1 : free and open source alternatives increase productivity ;
+* -1: free and open source alternatives increase productivity;
 
 #####  Availability
 
@@ -90,13 +90,13 @@ Since it moved off Oracle's Coherence into noSQL Couchbase, Orbitz can now roll 
 __Type of criterion__
 
 Availability related cost is difficult to measure.
-Unless the IT teams are able to provide financial data regarding downtime, this criterion is assigned a score from -1 to 1 :
+Unless the IT teams are able to provide financial data regarding downtime, this criterion is assigned a score from -1 to 1:
 
-* 1 : free and open source alternatives increase downtime ;
+* 1: free and open source alternatives increase downtime;
 
-* 0 : free and open source alternatives maintain downtime ;
+* 0: free and open source alternatives maintain downtime;
 
-* -1 : free and open source alternatives decrease downtime.
+* -1: free and open source alternatives decrease downtime.
 
 #####  Image improvement
 
@@ -108,13 +108,13 @@ Companies such as Google and Twitter are well known for their involvement in fre
 
 __Type of criterion__
 
-Image improvement is measured qualitatively. A score from -1 to 1 is assigned to this criterion :
+Image improvement is measured qualitatively. A score from -1 to 1 is assigned to this criterion:
 
-* 1 : free and open source alternatives damage the department or the company's image ;
+* 1: free and open source alternatives damage the department or the company's image;
 
-* 0 : free and open source alternatives maintain the department or the company's image ;
+* 0: free and open source alternatives maintain the department or the company's image;
 
-* -1 : free and open source alternatives improve the department or the company's image.
+* -1: free and open source alternatives improve the department or the company's image.
 
 #####  Support
 
@@ -127,13 +127,13 @@ Using free software allowed a French ministry to cut 90% of its applications ope
 __Type of criteria__
 
 The cost of support can be measured in terms of money if financial figures are provided by the IT teams.
-Should the opposite occur, a score from -1 to 1 may be assigned to this criterion :
+Should the opposite occur, a score from -1 to 1 may be assigned to this criterion:
 
-* 1 : free and open source alternatives support is more expensive ;
+* 1: free and open source alternatives support is more expensive;
 
-* 0 : free and open source alternatives support is as expensive ;
+* 0: free and open source alternatives support is as expensive;
 
-* -1 : free and open source alternatives support is less expensive ;
+* -1: free and open source alternatives support is less expensive;
 
 #####  Licenses
 
@@ -141,7 +141,7 @@ Free and open source solutions don't come with license fees nor license manageme
 
 __Example__
 
-Oracle's licenses fees are well known for its expensiveness while there is an alternative without license fees : PostgresSQL.
+Oracle's licenses fees are well known for its expensiveness while there is an alternative without license fees: PostgresSQL.
 
 __Type of criterion__
 
@@ -158,13 +158,13 @@ The hadoop ecosystem and the noSQL movement are open source solutions leading bi
 __Type of criterion__
 
 The cost of innovation is difficult to measure.
-Unless the IT teams are able to provide financial data regarding innovation, this criterion is assigned a score from -1 to 1 :
+Unless the IT teams are able to provide financial data regarding innovation, this criterion is assigned a score from -1 to 1:
 
-* 1 : free and open source alternatives are less innovative or stifle innovation ;
+* 1: free and open source alternatives are less innovative or stifle innovation;
 
-* 0 : free and open source alternatives are as innovative ;
+* 0: free and open source alternatives are as innovative;
 
-* -1 : free and open source alternatives are more innovative or accelerate innovation.
+* -1: free and open source alternatives are more innovative or accelerate innovation.
 
 #####  Quality of service
 
@@ -177,13 +177,13 @@ Orbitz has significantly improved the latency of its applications while ending w
 __Type of criterion__
 
 The cost of the quality of service is difficult to measure.
-Unless the IT teams are able to provide financial data regarding the quality of service, this criterion is assigned a score from -1 to 1 :
+Unless the IT teams are able to provide financial data regarding the quality of service, this criterion is assigned a score from -1 to 1:
 
-* 1 : free and open source alternatives decrease the quality of service ;
+* 1: free and open source alternatives decrease the quality of service;
 
-* 0 : free and open source alternatives maintain the quality of service ;
+* 0: free and open source alternatives maintain the quality of service;
 
-* -1 : free and open source alternatives increase the quality of service.
+* -1: free and open source alternatives increase the quality of service.
 
 #####  Continuity
 The continuity of a solution and its data is essential. It is even more crucial under mandatory data retention policies.
@@ -195,10 +195,10 @@ Using an open standard offers better guarantees of data reusability, even years 
 __Type of criterion__
 
 The cost of continuity is difficult to measure.
-Unless the IT teams are able to provide financial data regarding continuity, this criterion is assigned a score from -1 to 1 :
+Unless the IT teams are able to provide financial data regarding continuity, this criterion is assigned a score from -1 to 1:
 
-* 1 : free and open source alternatives offer worse continuity ;
+* 1: free and open source alternatives offer worse continuity;
 
-* 0 : free and open source alternatives offer the same continuity ;
+* 0: free and open source alternatives offer the same continuity;
 
-* -1 : free and open source alternatives offer better continuity ;
+* -1: free and open source alternatives offer better continuity;

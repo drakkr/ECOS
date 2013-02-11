@@ -20,23 +20,31 @@ The third step of the process of evaluation of the costs linked to Open Source i
 
 ####  Two modes of evaluations
 
-The criteria may be evaluated within two modes :
+The criteria may be evaluated within two modes:
 
-* quantitatively, usually in currency or monetary unit, to measure the economic efficiency, the profitability ;
+* quantitatively, usually in currency or monetary unit, to measure the economic efficiency, the profitability;
 
 * qualitatively, usually a score from -1 to 1, because a purely monetary method would overshadow important qualitative criteria. The qualitative criteria are represented in graphs.
+
 In order to have a clear view of the costs linked to Open Source, it is recommended to evaluate only 5 qualitative criteria maximum.
 
 ####  Calculation
 
 The cost difference between the installed solution and the free and open source alternatives is used to measure the economic efficiency, the profitability of change.
+
 In order to have a single score to compare two scenarios, it is possible to mix qualitative and quantitative results. This score, named ECOS score, is calculated with this formula:
-ECOS score      = sum of quantitative criteria's value
+
+ECOS Score = sum of quantitative criteria's value
                   x ( 1 + sum [qualitative score x weight])
+
 where :
-Qualitative scores may be -1, 0 or 1.
-Weight assigned to qualitative criteria may be 5%, 10% or 15% depending of how important the criterion is, 5% being assigned to an unimportant criterion while 15% is assigned to important criterion.  
+
+* Qualitative scores may be -1, 0 or 1.
+
+* Weight assigned to qualitative criteria may be 5%, 10% or 15% depending of how important the criterion is, 5% being assigned to an unimportant criterion while 15% is assigned to important criterion.  
+
 Example:  
-Note ECOS	= 30 000 x (1 + -1x5% + 0x5% + 1x10% + -1x15% + 0x10%)  
-		= 30 000 x (1 + -10%)  
-		= 27 000 €C0$  
+
+ECOS Score = 30 000 x (1 + -1x5% + 0x5% + 1x10% + -1x15% + 0x10%)  
+ECOS Score = 30 000 x (1 + -10%)  
+ECOS Score = 27 000 €C0$  

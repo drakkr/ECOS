@@ -12,9 +12,9 @@ __Type of criterion__
 
 The need of change is measured qualitatively. A score from -1 to 1 is assigned to this criterion :
 
-* 1 : change is not necessary or not urgent ;
+* 1 : change is not necessary or not urgent;
 
-* 0 : change is necessary but not very urgent ;
+* 0 : change is necessary but not very urgent;
 
 * -1 : change is necessary and urgent.
 
