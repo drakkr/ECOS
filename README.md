@@ -1,4 +1,4 @@
-![Logo](Method/en/Images/ECOS.png)
+![Logo](Method/en/Images/ECOS-small.png)
 
 ECOS repository - Project for Evaluating the Cost of Open Source adoption.
 
