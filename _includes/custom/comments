@@ -1,4 +1,4 @@
-v id="comments"/>
+<div id="comments"/>
 <script type="text/javascript" class="juvia">
 (function() {
     var options = {
