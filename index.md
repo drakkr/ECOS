@@ -5,6 +5,8 @@ tagline: Collaborative costs & benefits assesment
 ---
 {% include JB/setup %}
 
+![ECOS logo](https://raw.github.com/drakkr/ECOS/master/Method/en/Images/ECOS-small.png)
+
 ### Recent news
 
 <ul class="posts">
