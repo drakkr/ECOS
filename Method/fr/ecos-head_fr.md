@@ -1,9 +1,13 @@
 % Méthode d’Évaluation des Coûts liés à l’Open Source (ECOS)
 % ![Logo](Images/ECOS.png)
-% Version 1.0 - 21/11/2012
+% Version 1.0 - 31/03/2013
 
 Ce document décrit la méthode ECOS, conçue pour évaluer les coûts liés à l’Open Source de manière objective, traçable et argumentée.
-Elle est mise à disposition de tous selon les termes de la GNU Free Documentation Licence.
+Elle est mise à disposition de tous par le projet [ECOS](http://ecos.drakkr.org), selon les termes de la GNU Free Documentation Licence.
+
+Le format source de ce document est disponible à cette adresse : 
+
+<https://github.com/drakkr/ECOS/tree/master/Method/fr>.
 
 # Note de licence
 

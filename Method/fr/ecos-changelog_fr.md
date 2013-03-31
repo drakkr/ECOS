@@ -3,6 +3,6 @@
 --------------------------------------------------------------------------------------
  Version   Date       Auteurs                  Commentaires
 --------- ----------  --------------------     ---------------------------------------
-  1.0      21/11/2012 Thomas Moreau (Atos)     Conception et rédaction initiales.
+  1.0      31/03/2013 Thomas Moreau (Atos)     Conception et rédaction initiales.
                       Raphaël Semeteys (Atos)  
 --------------------------------------------------------------------------------------
