@@ -7,6 +7,10 @@ tagline: Collaborative costs & benefits assesment
 
 ![ECOS logo](https://raw.github.com/drakkr/ECOS/master/Method/en/Images/ECOS-small.png)
 
+### Impatient?
+
+Download the ECOS method, in [french](ecos-1.0_fr.pdf) (yeah... english version coming soon!).
+
 ### Recent news
 
 <ul class="posts">
