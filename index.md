@@ -13,6 +13,8 @@ tagline: Collaborative costs & benefits assesment
   {% endfor %}
 </ul>
 
+<a href="https://github.com/drakkr/ECOS/"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png" alt="Fork me on GitHub"></a>
+
 ### Introducing ECOS
 
 ECOS is a free project aiming to provide a formal and collaborative approach for evaluating the costs and benefits of open source migration and adoption.
