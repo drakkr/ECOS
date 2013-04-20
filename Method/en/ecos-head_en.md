@@ -1,6 +1,6 @@
 % Method of Evaluation of Costs linked to Open Source (ECOS)
 % ![Logo](Images/ECOS.png)
-% Version 1.0 - 21/11/2012
+% Version 1.0 - 2013-03-31
 
 This document describes the ECOS method, designed to evaluate the costs linked to Open Source in an objective manner, traceable and argued.
 It is distributed under the terms of the GNU Free Documentation License.
