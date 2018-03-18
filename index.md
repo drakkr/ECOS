@@ -25,7 +25,7 @@ Download the ECOS method, in [french](ecos-1.0_fr.pdf) (yeah... english version 
 
 ECOS is a free project aiming to provide a formal and collaborative approach for evaluating the costs and benefits of open source migration and adoption.
 
-It is part of the [drakkr](http://www.drakkr.org) framework for open source governance.
+It is part of the [drakkr](http://drakkr.github.io) framework for open source governance.
 
 The ECOS approach, composed of four interdependent steps, start at the first stage before making a decision, goes on during the installation or migration of a part of the information system and keeps going after the change-over, in operational conditions.
 
